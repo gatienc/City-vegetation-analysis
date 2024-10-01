@@ -1,0 +1,18 @@
+site_name: Docs
+
+theme:
+  name: readthedocs
+plugins:
+  - search # To have search functionality on the document
+  - mkdocstrings # To generate documentation from the code docstrings
+  - plotly # To render plotly graphs
+
+nav: # Setting up the navigation. Te below list will be tabs on left panel
+  - index.md
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: plotly
+          class: mkdocs-plotly
+          format: !!python/name:mkdocs_plotly_plugin.fences.fence_plotly

@@ -1,0 +1,24 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1 # Use the ref you want to point at
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+
+  - repo: https://github.com/psf/black
+    rev: 21.9b2 # Use the ref you want to point at
+    hooks:
+      - id: black
+        args: [--safe]
+        language_version: python3.8 # Specify the Python version you are using
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.10.1 # Use the ref you want to point at
+    hooks:
+      - id: isort
+
+  - repo: https://gitlab.com/pycqa/flake8
+    rev: 4.0.1 # Use the ref you want to point at
+    hooks:
+      - id: flake8
