@@ -97,6 +97,14 @@ To get a local copy up and running follow these simple steps.
 
    ```
 
+3. Then you'll need to download the data from the french opendata website [here](https://opendata.hautsdefrance.fr/dataset/df6f0a08-8613-4fb9-b418-0cfbc6cd124d)
+
+4. You will also need a sentinelhub account to download the satellite data. You can create an account [here](https://www.sentinel-hub.com/). When you have your account, you can fill the .env file with your credentials.
+
+5. Collect the data with "ndvi_data_collection.ipynb" notebook.
+
+6. Analyse the data with "image_analysis.ipynb" notebook.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Organization
