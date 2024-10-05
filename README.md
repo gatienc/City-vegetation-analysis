@@ -20,12 +20,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/gatienc/# vegetation_analysis
+  <a href="https://github.com/gatienc/vegetation_analysis
 ">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center"># vegetation_analysis
+  <h3 align="center">vegetation_analysis
 </h3>
 
   <p align="center">
@@ -33,12 +33,12 @@
     Use of satellite data to analysis the NDVI of the "Hauts de France" region, and compare the results with the "ville et village fleuris" label.
 
   <br />
-    <!-- <a href="https://github.com/gatienc/# vegetation_analysis
+    <!-- <a href="https://github.com/gatienc/vegetation_analysis
 "><strong>Explore the docs »</strong> -->
     </a> 
     <br />
     <br />
-    <!-- <a href="https://github.com/gatienc/# vegetation_analysis
+    <!-- <a href="https://github.com/gatienc/vegetation_analysis
 ">View Demo</a> -->
     
   </p>
@@ -69,7 +69,7 @@
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Use of satellite data to analysis the NDVI of the "Hauts de France" region, and compare the results with the "ville et village fleuris" label.
+Using the NDVI satellite data of the "Hauts de France" region, to compare to the "ville et village fleuris" label.
 
 Data has been extracted from the french opendata website [here](https://opendata.hautsdefrance.fr/dataset/df6f0a08-8613-4fb9-b418-0cfbc6cd124d)
 
