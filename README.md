@@ -12,20 +12,20 @@
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-border.json)](https://github.com/copier-org/copier)
-[![GitHub license](https://img.shields.io/github/license/gatienc/City_vegetation_analysis)](https://github.com/gatienc/City_vegetation_analysis/blob/master/LICENSE)
-[![GitHub commits](https://badgen.net/github/commits/gatienc/City_vegetation_analysis)](https://GitHub.com/gatienc/City_vegetation_analysis/commit/)
-[![GitHub latest commit](https://badgen.net/github/last-commit/gatienc/City_vegetation_analysis)](https://gitHub.com/gatienc/City_vegetation_analysis/commit/)
+[![GitHub license](https://img.shields.io/github/license/gatienc/City-vegetation-analysis)](https://github.com/gatienc/City-vegetation-analysis/blob/master/LICENSE)
+[![GitHub commits](https://badgen.net/github/commits/gatienc/City-vegetation-analysis)](https://GitHub.com/gatienc/City-vegetation-analysis/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/gatienc/City-vegetation-analysis)](https://gitHub.com/gatienc/City-vegetation-analysis/commit/)
 [![Author](https://img.shields.io/badge/author-@gatienc-blue)](https://github.com/gatienc)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/gatienc/City_vegetation_analysis
+  <a href="https://github.com/gatienc/City-vegetation-analysis
 ">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">City_vegetation_analysis
+  <h3 align="center">City-vegetation-analysis
 </h3>
 
   <p align="center">
@@ -33,12 +33,12 @@
 Use of satellite data to analysis the NDVI of the "Hauts de France" region, and compare the results with the "ville et village fleuris" label.
 
   <br />
-    <!-- <a href="https://github.com/gatienc/City_vegetation_analysis
+    <!-- <a href="https://github.com/gatienc/City-vegetation-analysis
 "><strong>Explore the docs »</strong> -->
     </a> 
     <br />
     <br />
-    <!-- <a href="https://github.com/gatienc/City_vegetation_analysis
+    <!-- <a href="https://github.com/gatienc/City-vegetation-analysis
 ">View Demo</a> -->
     
   </p>
@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gatienc/City_vegetation_analysis
+   git clone https://github.com/gatienc/City-vegetation-analysis
    ```
 2. Install dependencies
 
@@ -143,6 +143,6 @@ To get a local copy up and running follow these simple steps.
 
 Gatien Chenu - gatien_dev@chenu.me
 
-Project Link: https://github.com/gatienc/City_vegetation_analysis/issues
+Project Link: https://github.com/gatienc/City-vegetation-analysis/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
