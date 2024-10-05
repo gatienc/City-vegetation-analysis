@@ -1,0 +1,1 @@
+I initially wanted to get a High resolution image of the whole "Hauts de france" region, (Region of France in which the analyseds city are located) but Sentinel Hub only allows for a maximum of 2500x2500 pixels. I then decided to get a high resolution image of each city.

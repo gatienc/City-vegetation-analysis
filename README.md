@@ -71,6 +71,8 @@
 
 Use of satellite data to analysis the NDVI of the "Hauts de France" region, and compare the results with the "ville et village fleuris" label.
 
+Data has been extracted from the french opendata website [here](https://opendata.hautsdefrance.fr/dataset/df6f0a08-8613-4fb9-b418-0cfbc6cd124d)
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -88,10 +90,11 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/gatienc/vegetation_analysis
    ```
 2. Install dependencies
+
    ```sh
-   
+
    poetry install
-   
+
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
