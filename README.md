@@ -92,12 +92,10 @@ To get a local copy up and running follow these simple steps.
 2. Install dependencies
 
    ```sh
-
    poetry install
-
    ```
 
-3. Then you'll need to download the data from the french opendata website [here](https://opendata.hautsdefrance.fr/dataset/df6f0a08-8613-4fb9-b418-0cfbc6cd124d)
+3. Then you'll need to download the data from the french opendata website [here](https://opendata.hautsdefrance.fr/dataset/df6f0a08-8613-4fb9-b418-0cfbc6cd124d).
 
 4. You will also need a sentinelhub account to download the satellite data. You can create an account [here](https://www.sentinel-hub.com/). When you have your account, you can fill the .env file with your credentials.
 
@@ -126,15 +124,10 @@ To get a local copy up and running follow these simple steps.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     │
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │  
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make predictions
+    └── src                <- Source code for use in this project.
+        ├── __init__.py    <- Makes src a Python module
         │
+        ├── features       <- Scripts to turn raw data into features for modeling
         │
         └── visualization  <- Scripts to create exploratory and results oriented visualizations
             └── visualize.py

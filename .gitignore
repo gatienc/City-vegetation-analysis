@@ -94,3 +94,6 @@ target/
 .mypy_cache/
 
 notebooks/data
+!datasets/ndvi_geotiff/59121.tiff
+!datasets/region-hauts-de-france.geojson
+!datasets/villes_villages_fleuris.shp
