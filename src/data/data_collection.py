@@ -1,5 +1,10 @@
-import os
+"""
+This module provides functions for data collection.
 
+To use it, please fill your credentials in the .env file.
+"""
+
+import os
 import sentinelhub
 
 

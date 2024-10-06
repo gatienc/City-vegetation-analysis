@@ -1,3 +1,5 @@
+"""module for handling mask operations."""
+
 import geopandas as gpd
 import numpy as np
 import rasterio
@@ -6,6 +8,7 @@ import rasterio
 def get_masked_image(image_path: str, polygon: gpd.GeoDataFrame):
     """
     Get a masked image based on a given image path and polygon.
+
     Parameters
     ----------
     image_path : str

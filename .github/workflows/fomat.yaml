@@ -19,7 +19,7 @@ jobs:
         run: |
           poetry install --only dev
           poetry run black . --check
-          poetry run flake8 .
+          poetry run flake8 ./src
           poetry run isort **/*.py -c
 
   check-poetry:
